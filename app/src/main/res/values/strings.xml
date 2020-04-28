@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InAppBilling-master</string>
+    <string name="pref_ad_removal_purchased">Item purchased</string>
+
+</resources>
